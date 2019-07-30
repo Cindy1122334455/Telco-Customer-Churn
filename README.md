@@ -1,4 +1,4 @@
-# Telco-Customer-Churn
+# Telco Customer Churn Prediction
 Be free to see a rich view of this notebook: 
 https://nbviewer.jupyter.org/github/Cindy1122334455/Telco-Customer-Churn/blob/master/Telco-Customer-Churn.ipynb
 
