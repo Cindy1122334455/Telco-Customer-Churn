@@ -1,10 +1,13 @@
 # Telco Customer Churn Prediction
 Be free to see a rich view of this notebook: 
-https://nbviewer.jupyter.org/github/Cindy1122334455/Telco-Customer-Churn/blob/master/Telco-Customer-Churn.ipynb
+
+https://nbviewer.jupyter.org/github/Cindy1122334455/Telco-Customer-Churn/blob/master/Telco_Customer_Churn.ipynb
 
 ## Data Overview
 The data was downloaded from IBM Sample Data Sets for customer retention programs. The objective of this project is to predict behaviors of churn or not churn to help retain customers. Each row represents a customer, each column contains a customer’s attribute.
 This dataset contains only 7043 rows, 21 columns and only 11 missing values.
+
+Data Source: https://www.kaggle.com/blastchar/telco-customer-churn#WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 The data set includes information about:
 
