@@ -1,5 +1,5 @@
 # Telco-Customer-Churn
-Be free to see the full version of jupyter notebook via link:
+Be free to see a rich view of this notebook: 
 https://nbviewer.jupyter.org/github/Cindy1122334455/Telco-Customer-Churn/blob/master/Telco-Customer-Churn.ipynb
 
 ## Data Overview
